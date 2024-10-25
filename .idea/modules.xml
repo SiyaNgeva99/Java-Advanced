@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/DateTimeFormatterExample/DateTimeFormatterExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/DateTimeFormatterExample/DateTimeFormatterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/FluentExamples/FluentExamples.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/FluentExamples/FluentExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/InstantDurationPeriodExample/InstantDurationPeriodExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/InstantDurationPeriodExample/InstantDurationPeriodExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/LocalDateExample/LocalDateExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/LocalDateExample/LocalDateExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/LocalDateTimeExample/LocalDateTimeExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/LocalDateTimeExample/LocalDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/LocalTimeExample/LocalTimeExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/LocalTimeExample/LocalTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/OffsetDateTimeExample/OffsetDateTimeExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/OffsetDateTimeExample/OffsetDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/ZoneIdOffset/ZoneIdOffset.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/ZoneIdOffset/ZoneIdOffset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/examples/ZonedDateTimeExample/ZonedDateTimeExample.iml" filepath="$PROJECT_DIR$/Chapter12/src/examples/ZonedDateTimeExample/ZonedDateTimeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my_source_code.iml" filepath="$PROJECT_DIR$/.idea/my_source_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter12/src/practices/practices.iml" filepath="$PROJECT_DIR$/Chapter12/src/practices/practices.iml" />
+    </modules>
+  </component>
+</project>
